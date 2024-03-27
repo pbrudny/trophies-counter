@@ -1,8 +1,9 @@
 
-# Trophies Counter
+# Trophies Counter [WIP]
 This is a simple Slack Bolt application that demonstrates how to use the Slack Bolt framework to build a Slack app that updates the Home tab for a user when they open your app within Slack.
 
 The main goal for this app is to count the Trophies assigned to the user in Slack messages
+
 
 ## Features
 
