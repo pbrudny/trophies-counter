@@ -23,13 +23,13 @@ Before you can run this application, you will need:
 1. Clone this repository to your local machine.
 
 ```bash
-git clone <repository-url>
+git clone pbrudny/trophies-counter
 ```
 
 2. Navigate to the project directory.
 
 ```bash
-cd <project-directory>
+cd trophies-counter
 ```
 
 3. Install the dependencies.
